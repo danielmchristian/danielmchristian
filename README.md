@@ -7,12 +7,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Place Holder Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Place Holder</b>
+  - [Place Holder](https://github.com/danielmchristian)
 
 <h2>📺 YouTube Video Overviews Of Projects</h2>
 
-- [Place Holder](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Place Holder](https://www.youtube.com/@notsleepyjesus)
 
 ## 📄 Resume
 - [Resume Link](https://drive.google.com/file/d/1aqQ1vw2t6RnMMUILA7bonkSRVlMRIMt7/view?usp=drive_link)
