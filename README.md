@@ -5,6 +5,11 @@
 
 - [Place Holder](https://drive.google.com/file/d/1aqQ1vw2t6RnMMUILA7bonkSRVlMRIMt7/view?usp=drive_link)
 
+<h2>💻🔒 Cybersecurity Experiences:</h2>
+
+- <b>Security Audit</b>
+  - [Audit Documentation](https://drive.google.com/drive/folders/1ZxsV4H5zldB9mGJSDBmzcN2MbxO-R3Ql?usp=sharing)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Place Holder</b>
