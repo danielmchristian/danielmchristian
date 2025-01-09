@@ -15,7 +15,7 @@
 - [Place Holder](https://www.youtube.com/@notsleepyjesus)
 
 ## 📄 Resume
-- [Resume Link](https://drive.google.com/file/d/1aqQ1vw2t6RnMMUILA7bonkSRVlMRIMt7/view?usp=drive_link)
+- [Resume Link](https://drive.google.com/file/d/1qJVfbHOmEMQI57f_cIw6gWLsTM6BzA_j/view?usp=sharing)
 
 
 <h2> 🌐🔗 Connect with me:</h2>
