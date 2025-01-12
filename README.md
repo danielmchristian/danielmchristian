@@ -9,6 +9,8 @@
 
 - <b>Security Audit</b>
   - [Audit Documentation](https://drive.google.com/drive/folders/1ZxsV4H5zldB9mGJSDBmzcN2MbxO-R3Ql?usp=sharing)
+- <b>DNS & Network Layer Security Analysis</b>
+  - [Analysis Documentation](https://drive.google.com/drive/folders/1oB-ma1-Ws8iekVESV8Zvnx3tE9oE452K?usp=sharing)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
