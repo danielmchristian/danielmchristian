@@ -3,7 +3,7 @@
 
 <h2>📖 Certifications:</h2>
 
-- [Place Holder](https://drive.google.com/file/d/1aqQ1vw2t6RnMMUILA7bonkSRVlMRIMt7/view?usp=drive_link)
+- [In Progress 🚧👷 | Google Cybersecurity Professional Certificate](https://www.coursera.org/programs/summer-microcredential-opportunity-lx1nw/professional-certificates/google-cybersecurity?collectionId=bcba1)
 
 <h2>💻🔒 Cybersecurity Experiences:</h2>
 
