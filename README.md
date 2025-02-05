@@ -29,7 +29,7 @@
 - [Under Construction 🚧👷](https://www.youtube.com/@notsleepyjesus)
 
 ## 📄 Resume
-- [Resume Link](https://drive.google.com/file/d/1_E-n9I5QzlULjh_mrW4ENlLzlW4Gv5H7/view?usp=sharing)
+- [Resume Link](https://drive.google.com/file/d/1M7OkvJJFtTs67pLL01UczhYMb4DmZFPA/view?usp=sharing)
 
 
 <h2> 🌐🔗 Connect with me:</h2>
