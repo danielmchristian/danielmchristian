@@ -3,7 +3,7 @@
 
 <h2>📖 Certifications:</h2>
 
-- [In Progress 🚧👷 | Google Cybersecurity Professional Certificate](https://www.coursera.org/programs/summer-microcredential-opportunity-lx1nw/professional-certificates/google-cybersecurity?collectionId=bcba1)
+- [In Progress | Google Cybersecurity Professional Certificate](https://www.coursera.org/programs/summer-microcredential-opportunity-lx1nw/professional-certificates/google-cybersecurity?collectionId=bcba1)
 
 <h2>💻🔒 Cybersecurity Experiences:</h2>
 
