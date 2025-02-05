@@ -21,15 +21,15 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Place Holder</b>
-  - [Place Holder](https://github.com/danielmchristian)
+- <b>Under Construction 🚧👷r</b>
+  - [Under Construction 🚧👷](https://github.com/danielmchristian)
 
 <h2>📺 YouTube Video Overviews Of Projects</h2>
 
-- [Place Holder](https://www.youtube.com/@notsleepyjesus)
+- [Under Construction 🚧👷](https://www.youtube.com/@notsleepyjesus)
 
 ## 📄 Resume
-- [Resume Link](https://drive.google.com/file/d/1qJVfbHOmEMQI57f_cIw6gWLsTM6BzA_j/view?usp=sharing)
+- [Resume Link](https://drive.google.com/file/d/1_E-n9I5QzlULjh_mrW4ENlLzlW4Gv5H7/view?usp=sharing)
 
 
 <h2> 🌐🔗 Connect with me:</h2>
