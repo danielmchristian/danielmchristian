@@ -21,7 +21,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Under Construction 🚧👷r</b>
+- <b>Under Construction 🚧👷</b>
   - [Under Construction 🚧👷](https://github.com/danielmchristian)
 
 <h2>📺 YouTube Video Overviews Of Projects</h2>
