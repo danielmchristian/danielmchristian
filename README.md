@@ -1,5 +1,5 @@
 
-<h1>Howdy, I'm Daniel!😁 <br/><a href="https://github.com/danielmchristian">Programmer</a>, <a href="https://www.linkedin.com/in/danielcmorley/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@notsleepyjesus">and YouTuber</a></h1>
+<h1>Howdy, I'm Daniel!😁 <br/><a href="https://github.com/danielmchristian">Programmer</a> and <a href="https://www.linkedin.com/in/danielcmorley/">Cybersecurity Professional</a></a></h1>
 
 <h2>📖 Certifications:</h2>
 
